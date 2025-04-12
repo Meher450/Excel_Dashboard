@@ -1,0 +1,49 @@
+Data Dictionary: Indian Ports & Fleet Performance Dataset
+Overview
+The dataset for this project contains key performance metrics from Indian ports. The data includes various factors like cargo handled, fleet size, turnaround time, and port productivity. Each column in the dataset corresponds to a different aspect of the maritime industry’s performance.
+
+Columns Description
+Column Name	Description
+Year	The year in which the data was recorded. Typically spans from 2010 to 2024.
+Port Name	The name of the port (e.g., Jawaharlal Nehru Port Trust (JNPT), Chennai Port).
+Region	The region of the port (e.g., East Coast, West Coast).
+Port Type	Type of the port (Major or Non-Major).
+Cargo Handled (Tonnes)	The total cargo handled by the port in metric tonnes for the given year.
+Fleet Size (Number of Ships)	The number of ships in operation at the port in a particular year.
+GRT (Gross Registered Tonnage)	The total weight of ships operating in the port, including their cargo capacity, in Gross Registered Tonnage (GRT).
+Age of Fleet (Years)	The age of the ships in service, categorized into various age groups such as 0-5 years, 6-10 years, etc.
+Berth Output (Tonnes)	The amount of cargo handled per berth in the port. A measure of berth productivity.
+Turnaround Time (TRT) (Hours)	The average time it takes for a ship to unload and reload at the port, measured in hours.
+Cargo Distribution	Distribution of cargo across different types of ports (e.g., Major vs Non-Major Ports).
+Detailed Column Descriptions
+Year: The "Year" column records the year of the data. This column helps track performance over time, allowing for year-wise analysis.
+
+Port Name: Each port in the dataset is listed by its official name. This is crucial for identifying specific performance trends for each port in the country.
+
+Region: Ports are grouped by their geographical region in India, i.e., East Coast or West Coast. This enables comparisons of performance metrics between regions.
+
+Port Type: The classification of ports into Major or Non-Major types according to the government classification system. Major ports are large ports with higher cargo traffic, while Non-Major ports are relatively smaller.
+
+Cargo Handled (Tonnes): Represents the total cargo volume handled by the port in that year. This metric is crucial for understanding the port’s throughput and its economic impact on the surrounding region.
+
+Fleet Size (Number of Ships): Indicates the number of ships operating through the port. This provides insights into the volume of maritime traffic and logistics management at the port.
+
+GRT (Gross Registered Tonnage): This metric measures the total size of ships operating at a port, including their cargo capacity. It helps evaluate the scale and capacity of vessels operating at a given port.
+
+Age of Fleet (Years): This column categorizes ships operating at the port by their age. Older fleets may indicate a need for modernization, while younger fleets may suggest a more technologically advanced shipping infrastructure.
+
+Berth Output (Tonnes): This is a measure of the port’s efficiency in handling cargo at each berth. A higher output suggests better port utilization and operational efficiency.
+
+Turnaround Time (TRT) (Hours): This column provides the average time a vessel stays at the port for unloading and reloading. Lower turnaround times are generally better, as they indicate more efficient port operations.
+
+Cargo Distribution: This column compares cargo handled by Major and Non-Major ports. This distinction provides insight into the overall contribution of different types of ports to the national economy.
+
+Data Usage and Relevance
+This data is invaluable for stakeholders in the shipping industry, including port authorities, government agencies, shipping companies, and logistics operators. It offers a comprehensive view of the Indian maritime landscape, supporting decision-making for policy improvement, resource allocation, and infrastructure development.
+
+Updates & Version History
+Dataset Version: 2025
+
+Last Updated: [Insert Date]
+
+Source: Ministry of Ports, Shipping and Waterways (MoPSW), Indian Ports Association (IPA)
